@@ -1,0 +1,2 @@
+# GitCloneTest
+a clone test
